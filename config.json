@@ -1,0 +1,19 @@
+{
+  "links": {
+    "link1": "https://www.facebook.com/search?q=1%s",
+    "link2": "https://www.google.com/search?q=2%s",
+    "link3": "https://www.google.com/search?q=3%s"
+  },
+  "folders": {
+    "folder1": {
+      "folder1Link1": "https://www.google.com/search?q=1%s",
+      "folder1Link2": "https://www.google.com/search?q=2%s",
+      "folder1Link4": "https://www.google.com/search?q=4%s"
+    },
+    "folder2": {
+      "folder2Link1": "https://www.google.com/search?q=1%s",
+      "folder2Link2": "https://www.google.com/search?q=2%s",
+      "folder2Link4": "https://www.google.com/search?q=4%s"
+    }
+  }
+}
