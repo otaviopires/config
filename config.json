@@ -1,6 +1,6 @@
 {
   "links": {
-    "link1": "https://www.facebook.com/search?q=1%s",
+    "link1": "https://www.asdf.com/search?q=1%s",
     "link2": "https://www.google.com/search?q=2%s",
     "link3": "https://www.google.com/search?q=3%s"
   },
